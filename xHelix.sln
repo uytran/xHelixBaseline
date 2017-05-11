@@ -28,7 +28,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{9A8F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{5ABB37C0-E86D-4585-81D2-50A0E41ED859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Common.Website", "src\Project\Common\code\Sitecore.Common.Website.csproj", "{C98EAD78-4D83-4789-A621-6011C3D7314D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xHelix.Common.Website", "src\Project\Common\code\xHelix.Common.Website.csproj", "{C98EAD78-4D83-4789-A621-6011C3D7314D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Baseline", "Baseline", "{2F8C4C22-506E-4AE6-B235-4541AAAF3E87}"
 EndProject
