@@ -21,6 +21,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{755F9E42-1707-4E1A-AE6D-3FD8A25118C0}"
+	ProjectSection(SolutionItems) = preProject
+		src\Feature\README.md = src\Feature\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{D2CBE02E-6AA7-4343-9A01-891F971A17F5}"
 EndProject
@@ -31,6 +34,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xHelix.Common.Website", "src\Project\Common\code\xHelix.Common.Website.csproj", "{C98EAD78-4D83-4789-A621-6011C3D7314D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Baseline", "Baseline", "{2F8C4C22-506E-4AE6-B235-4541AAAF3E87}"
+	ProjectSection(SolutionItems) = preProject
+		src\Foundation\Baseline\README.md = src\Foundation\Baseline\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
