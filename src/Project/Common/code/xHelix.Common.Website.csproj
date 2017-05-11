@@ -147,6 +147,7 @@
     <None Include="Properties\PublishProfiles\Habitat.pubxml" />
     <Content Include="Views\Common\Sublayouts\Footer.cshtml" />
     <Content Include="Views\Common\Sublayouts\PageHeader.cshtml" />
+    <Content Include="styles\sample.scss" />
     <None Include="Views\Web.config" />
     <None Include="web.config" />
     <None Include="web.config.transform" />
@@ -159,7 +160,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="fonts\" />
-    <Folder Include="styles\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
