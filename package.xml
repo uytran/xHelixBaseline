@@ -1,16 +1,16 @@
 <project>
   <Metadata>
     <metadata>
-      <PackageName>Habitat package</PackageName>
-      <Author>Sitecore</Author>
+      <PackageName>xHelix package</PackageName>
+      <Author>Xcentium</Author>
       <Version>1.0.0.0</Version>
       <Revision />
       <License />
       <Comment />
-      <Attributes>1 mongorestore=xHelix.Foundation.Installer.MongoRestore.MongoRestoreAction, xHelix.Foundation.Installer|2 xmltransform=xHelix.Foundation.Installer.XmlTransform.XmlTransformAction, xHelix.Foundation.Installer|3 enableaccounts=xHelix.Foundation.Installer.AccountsEnableAction, xHelix.Foundation.Installer|4 replacereportingdb=xHelix.Foundation.Installer.ReportingDbReplace.ReplaceReportingDbAction, xHelix.Foundation.Installer|</Attributes>
+      <Attributes></Attributes>
       <Readme />
       <Publisher />
-      <PostStep>xHelix.Foundation.Installer.PostStep, xHelix.Foundation.Installer</PostStep>
+      <PostStep></PostStep>
       <PackageID />
     </metadata>
   </Metadata>
@@ -46,7 +46,7 @@
       </Converter>
       <Include />
       <Exclude />
-      <Name>habitat files</Name>
+      <Name>xhelix files</Name>
     </xfiles>
     <xitems>
       <Entries />
@@ -67,7 +67,7 @@
       </Converter>
       <Include />
       <Exclude />
-      <Name>Habitat items</Name>
+      <Name>xhelix items</Name>
     </xitems>
     <files>
       <Converter>
